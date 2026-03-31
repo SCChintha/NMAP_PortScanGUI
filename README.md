@@ -22,8 +22,8 @@ No third-party packages are required.
 ## Installation
 
 ```bash
-git clone https://github.com/techtrainer20/nmap_portscan_gui.git
-cd nmap_portscan_gui
+git clone https://github.com/NMAP_PortScanGUI.git
+cd NMAP_PortScanGUI
 ```
 
 ## Usage
@@ -63,7 +63,7 @@ Ports not in the list are reported as `Unknown`.
 ## Project Structure
 
 ```
-nmap_portscan_gui/
+NMAP_PortScanGUI/
 ├── portscanergui.py   # Main application (scanner + GUI)
 └── README.md
 ```
@@ -72,8 +72,3 @@ nmap_portscan_gui/
 
 Use this tool only on hosts and networks you own or have explicit permission to scan. Unauthorized port scanning may be illegal in your jurisdiction.
 
-## License
-
-This project is released under the [MIT License](https://opensource.org/licenses/MIT).
-"# NMAP_PortScanGUI" 
-"# NMAP_PortScanGUI" 
